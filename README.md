@@ -8,6 +8,6 @@ So first, go through the kick off meeting management
 
 
 
-
+you can find it [here](https://public.tableau.com/app/profile/doua.zemouli/viz/TitanicI_17359129007770/Tableaudebord1)
 
 ![Titanic_Dashboard](https://github.com/user-attachments/assets/3a35b79e-68f2-4ff8-b7c7-7ef18364a667)
